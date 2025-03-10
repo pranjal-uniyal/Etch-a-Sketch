@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+.sketch-area {
+  width: 100 vh;
+  height: 100 vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+.background {
+  background-color: black;
+}
